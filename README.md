@@ -80,7 +80,7 @@ curl http://localhost:8000/weather/London/cached
 ## Installation & Setup
 
 ### Prerequisites
-- PHP 8.1 or higher
+- PHP 8.3 or higher
 - Composer
 
 ### Step 1: Clone the Repository
